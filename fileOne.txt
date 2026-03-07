@@ -1,5 +1,3 @@
 
 
-practice git pull and fetch
-
-added from the remote
+Merge demo commit1
